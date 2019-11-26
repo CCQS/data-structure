@@ -1,10 +1,3 @@
-//
-//  main.c
-//  二级第七套   一
-//
-//  Created by 陈泉松 on 2018/10/15.
-//  Copyright © 2018 陈泉松. All rights reserved.
-//
 
 #include <stdio.h>
 #include <stdlib.h>
